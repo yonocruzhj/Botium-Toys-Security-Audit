@@ -87,6 +87,9 @@ Recommendations to improve security posture include the following:
 * Train employees to properly classify data and add data to inventory.  
 * Train employees to monitor legacy systems properly.  
 
+<h2>Full Audit Report</h2>
+
+- 
 <!--
  ```diff
 - text in red
